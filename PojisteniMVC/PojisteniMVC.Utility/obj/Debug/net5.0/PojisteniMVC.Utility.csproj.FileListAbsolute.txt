@@ -1,0 +1,11 @@
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\bin\Debug\net5.0\PojisteniMVC.Utility.deps.json
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\bin\Debug\net5.0\PojisteniMVC.Utility.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\bin\Debug\net5.0\ref\PojisteniMVC.Utility.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\bin\Debug\net5.0\PojisteniMVC.Utility.pdb
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.AssemblyInfoInputs.cache
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.AssemblyInfo.cs
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.csproj.CoreCompileInputs.cache
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\ref\PojisteniMVC.Utility.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.pdb

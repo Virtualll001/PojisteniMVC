@@ -1,0 +1,17 @@
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.AssemblyInfo.cs
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.DataAccess.deps.json
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.DataAccess.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\ref\PojisteniMVC.DataAccess.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.DataAccess.pdb
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.Models.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.Utility.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.Models.pdb
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\bin\Debug\net5.0\PojisteniMVC.Utility.pdb
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.csproj.CopyComplete
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\ref\PojisteniMVC.DataAccess.dll
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.DataAccess\obj\Debug\net5.0\PojisteniMVC.DataAccess.pdb
