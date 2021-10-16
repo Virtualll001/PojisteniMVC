@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4diiPTCKO7ZPruYZwItBy+8RFjm5oUou64qozBpOT/4T7dNCSyZ34LsxA59n8g8FB0cbVLtaqMweUS42EAhR+A==",
+  "dgSpecHash": "bW+5yqxSDlMOVMOBJLF/b06p+Uc3sWQJIdogL+ScjiJZxdoXk+T/kbjl0eXTg8J9nZXzm32K+ekAR+vBdhGv5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\lonet\\source\\repos\\PojisteniMVC\\PojisteniMVC\\PojisteniMVC.DataAccess\\PojisteniMVC.DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\lonet\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\lonet\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.7\\microsoft.aspnetcore.cryptography.internal.5.0.7.nupkg.sha512",
     "C:\\Users\\lonet\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.7\\microsoft.aspnetcore.cryptography.keyderivation.5.0.7.nupkg.sha512",
     "C:\\Users\\lonet\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\5.0.7\\microsoft.aspnetcore.identity.entityframeworkcore.5.0.7.nupkg.sha512",

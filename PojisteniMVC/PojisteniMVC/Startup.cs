@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PojisteniMVC.Data;
+using PojisteniMVC.DataAccess.Repository;
+using PojisteniMVC.DataAccess.Repository.IRepository;
 
 namespace PojisteniMVC
 {
@@ -28,7 +30,9 @@ namespace PojisteniMVC
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddControllersWithViews();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddControllersWithViews(); //není potøeba v .NET 5 => .AddRazorRuntimeCompilation();
+            //není potøeba v .NET 5 => services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

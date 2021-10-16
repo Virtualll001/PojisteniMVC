@@ -444,3 +444,6 @@ C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net5.0\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net5.0\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC\bin\Debug\net5.0\Dapper.dll
