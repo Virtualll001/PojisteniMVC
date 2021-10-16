@@ -199,3 +199,9 @@ body {
     width: 210px !important;
     margin: 0 auto;
 }
+
+/* My styles
+-------------------------------------------------- */
+.text-right{
+    text-align: right;
+}
