@@ -9,3 +9,4 @@ C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\D
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.dll
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\ref\PojisteniMVC.Utility.dll
 C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.pdb
+C:\Users\lonet\source\repos\PojisteniMVC\PojisteniMVC\PojisteniMVC.Utility\obj\Debug\net5.0\PojisteniMVC.Utility.csproj.AssemblyReference.cache
