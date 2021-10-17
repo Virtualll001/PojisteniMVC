@@ -24,8 +24,7 @@ namespace PojisteniMVC.DataAccess.Repository
             {
                 objFromDb.Jmeno = pojisteny.Jmeno;
                 objFromDb.Prijmeni = pojisteny.Prijmeni;
-                objFromDb.Adresa = pojisteny.Adresa;
-                _db.SaveChanges();
+                objFromDb.Adresa = pojisteny.Adresa;               
             }
         }
     }

@@ -10,5 +10,6 @@ namespace PojisteniMVC.DataAccess.Repository.IRepository
     {
         IPojistenyRepository Pojisteny { get; }
         ISP_Call SP_Call { get; }
+        void Save();
     }
 }

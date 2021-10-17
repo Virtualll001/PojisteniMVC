@@ -20,6 +20,5 @@ namespace PojisteniMVC.Models
         [MaxLength(50)]
         public string Prijmeni { get; set; }
         public string Adresa { get; set; }
-
     }
 }
